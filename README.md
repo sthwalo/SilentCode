@@ -191,8 +191,9 @@ silent-code/
 - **Email**: sthwaloe@gmail.com  
 - **Twitter**: [@silentcode](https://twitter.com/silentcode)  
 
-**Investors**: See our [Pitch Deck](https://docsend.com/view/your-pitch-deck)  
-
+## 🔧 Documentation
+- [Architecture Overview](docs/ARCHITECTURE.md)
+- [Investor Pitch](docs/INVESTOR_PITCH.md)
 ---
 
 *“The Lord is my Shepherd. I shall not want—because I’ll be too busy building Canaan.”* 🚀
